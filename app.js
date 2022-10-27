@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
             align-items: center;
             width: 100%;
         ">
-        <h1>Welcome to the version 1 of this app!</h1>
+        <h1>Welcome to the version 2 of this app!</h1>
         <p>Here is a nice image to get you started!</p>
             <img src="https://source.unsplash.com/featured/300x201" alt="random image" />
         </div>
