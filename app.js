@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     `)
 })
 
-const PORT = 8000
+const PORT = 3000
 
 app.listen(PORT, () => {
     console.log(`App started on port ${PORT}...`)
