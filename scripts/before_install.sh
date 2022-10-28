@@ -1,2 +1,1 @@
-[[ -s $HOME/.nvm/nvm.sh ]] && . $HOME/.nvm/nvm.sh
-nvm install 16
+cd /home/ec2-user/aws_codedeploy
